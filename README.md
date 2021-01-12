@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heisann 👋
+
+Velkommen til GitHub profilen for BorgenGutta, som administreres av Borgen IL sitt G2006 og G2005 lag. ⚽
 
 <!--
 **BorgenGutta/BorgenGutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
